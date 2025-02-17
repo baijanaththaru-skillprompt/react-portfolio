@@ -9,6 +9,7 @@ function App() {
       <Navbar />
       <HeroSection />
       <Projects />
+      <p>Congrats, for deploying your site!</p>
     </div>
   );
 }
