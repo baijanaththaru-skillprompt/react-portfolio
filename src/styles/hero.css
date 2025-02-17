@@ -1,0 +1,14 @@
+#hero {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+  height: 90vh;
+  align-items: center;
+}
+
+#profile {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}

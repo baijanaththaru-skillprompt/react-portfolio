@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+#home {
+  background-color: white;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+  min-width: 1400px;
+  overflow: auto;
+}

@@ -1,0 +1,12 @@
+#project {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.project-demo {
+  height: 330px;
+  border-radius: 5px;
+}
